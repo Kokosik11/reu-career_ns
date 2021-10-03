@@ -1,0 +1,14 @@
+{
+    "db": {
+        "host": "localhost",
+        "port": 27017,
+        "database": "reu-career",
+        "maxAge": "60 * 60 * 1000",
+        "sessionSchema": "session",
+        "sessionHistorySchema": "session-history"
+    },
+    "secret": "secret",
+
+    "PORT": 3001,
+    "MODE": "development"
+}
